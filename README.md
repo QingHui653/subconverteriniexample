@@ -6,6 +6,7 @@
   - 项目基于subweb：https://github.com/lzdnico/subweb
   - 项目基于subconverter：https://github.com/tindy2013/subconverter
   - 请配合subweb配置文件版使用，示例地址：https://subweb.niconewbeee.tk/ini
+  - 使用配置 https://bianyuan.xyz/ini
 
  
 # 如何自定义
