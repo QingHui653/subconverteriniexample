@@ -70,58 +70,58 @@ HalfLife.txt
 https://raw.githubusercontent.com/tickmao/ADrules/master/HalfLife.txt
 
 ### 用户规则
-- '@@mps.ts'
-- '|http://www.sohu.com/adbyby_list'
-- '!百度广告'
-- '||cbjs.baidu.com/adbyby'
-- '||list.video.baidu.com/adbyby'
-- '||nsclick.baidu.com/adbyby'
-- '||play.baidu.com/adbyby'
-- '||sclick.baidu.com/adbyby'
-- '||tieba.baidu.com/adbyby'
-- '||baidustatic.com/adbyby'
-- '||bdimg.com/adbyby'
-- '||bdstatic.com/adbyby'
-- '||share.baidu.com/adbyby'
-- '||hm.baidu.com/adbyby'
-- '!视频广告'
-- '||v.baidu.com/adbyby'
-- '||1000fr.net/adbyby'
-- '||56.com/adbyby'
-- '||v-56.com/adbyby'
-- '||acfun.com/adbyby'
-- '||acfun.tv/adbyby'
-- '||baofeng.com/adbyby'
-- '||baofeng.net/adbyby'
-- '||cntv.cn/adbyby'
-- '||hoopchina.com.cn/adbyby'
-- '||funshion.com/adbyby'
-- '||fun.tv/adbyby'
-- '||hitvs.cn/adbyby'
-- '||hljtv.com/adbyby'
-- '||iqiyi.com/adbyby'
-- '||qiyi.com/adbyby'
-- '||agn.aty.sohu.com/adbyby'
-- '||itc.cn/adbyby'
-- '||kankan.com/adbyby'
-- '||ku6.com/adbyby'
-- '||letv.com/adbyby'
-- '||letvcloud.com/adbyby'
-- '||letvimg.com/adbyby'
-- '||pplive.cn/adbyby'
-- '||pps.tv/adbyby'
-- '||ppsimg.com/adbyby'
-- '||pptv.com/adbyby'
-- '||v.qq.com/adbyby'
-- '||l.qq.com/adbyby'
-- '||video.sina.com.cn/adbyby'
-- '||tudou.com/adbyby'
-- '||wasu.cn/adbyby'
-- '||analytics-union.xunlei.com/adbyby'
-- '||kankan.xunlei.com/adbyby'
-- '||youku.com/adbyby'
-- '||hunantv.com/adbyby'
-- '||zimuzu.tv/adbyby_list'
+@@mps.ts
+|http://www.sohu.com/adbyby_list
+!百度广告
+||cbjs.baidu.com/adbyby
+||list.video.baidu.com/adbyby
+||nsclick.baidu.com/adbyby
+||play.baidu.com/adbyby
+||sclick.baidu.com/adbyby
+||tieba.baidu.com/adbyby
+||baidustatic.com/adbyby
+||bdimg.com/adbyby
+||bdstatic.com/adbyby
+||share.baidu.com/adbyby
+||hm.baidu.com/adbyby
+!视频广告
+||v.baidu.com/adbyby
+||1000fr.net/adbyby
+||56.com/adbyby
+||v-56.com/adbyby
+||acfun.com/adbyby
+||acfun.tv/adbyby
+||baofeng.com/adbyby
+||baofeng.net/adbyby
+||cntv.cn/adbyby
+||hoopchina.com.cn/adbyby
+||funshion.com/adbyby
+||fun.tv/adbyby
+||hitvs.cn/adbyby
+||hljtv.com/adbyby
+||iqiyi.com/adbyby
+||qiyi.com/adbyby
+||agn.aty.sohu.com/adbyby
+||itc.cn/adbyby
+||kankan.com/adbyby
+||ku6.com/adbyby
+||letv.com/adbyby
+||letvcloud.com/adbyby
+||letvimg.com/adbyby
+||pplive.cn/adbyby
+||pps.tv/adbyby
+||ppsimg.com/adbyby
+||pptv.com/adbyby
+||v.qq.com/adbyby
+||l.qq.com/adbyby
+||video.sina.com.cn/adbyby
+||tudou.com/adbyby
+||wasu.cn/adbyby
+||analytics-union.xunlei.com/adbyby
+||kankan.xunlei.com/adbyby
+||youku.com/adbyby
+||hunantv.com/adbyby
+||zimuzu.tv/adbyby_list
 
 ### 视频拦截
 1. 使用 openwrt中的 广告屏蔽大师plus+ 即可
