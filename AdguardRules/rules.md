@@ -8,6 +8,10 @@ https://adaway.org/hosts.txt
 
 乘风规则
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
+https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+
+乘风 视频广告过滤规则
+https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
 
 anti-AD.txt
 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
@@ -22,6 +26,9 @@ EasyPrivacy隐私保护
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 https://easylist.to/easylist/easyprivacy.txt
 
+CJX’s Annoyance List：过滤烦人的自我推广，并补充EasyPrivacy隐私规则
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+
 Easylistchina中文补充规则(与 EasyList + EasyList China 配置一个即可)
 https://easylist-downloads.adblockplus.org/easylistchina.txt
 
@@ -31,6 +38,15 @@ https://fanboy.co.nz/r/fanboy-ultimate.txt
 
 hpHosts - Ad and Tracking servers only
 https://hosts-file.net/ad_servers.txt
+
+StevenBlack/hosts(多个规则集合)
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+HalfLife，规则合并自 EasylistChina、EasylistLite、CJX’sAnnoyance 合并规则（几乎每天更新)
+https://gitee.com/halflife/list/raw/master/ad.txt
+
+BANAD
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl
 
 ### adguard 自带 和网上找的
 
@@ -43,9 +59,6 @@ https://hosts.nfz.moe/127.0.0.1/full/hosts
 8
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 
-
-CJX Annoyance去自我推广列表
-https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 
 NeoHosts国内屏蔽挖矿统计 JS&360 & 百度 & 劫持 & 反感激进内容等
 https://hosts.nfz.moe/full/hosts
